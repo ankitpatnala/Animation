@@ -1,0 +1,17 @@
+#vcxproj
+
+PhysicsBasedAnimation/*.vcxproj
+PhysicsBasedAnimation/*.vcxproj.filters
+PhysicsBasedAnimation/*.vcxproj.user
+*.vcxproj
+*.log
+*.obj
+*.tlog
+
+#build Directory
+
+PhysicsBasedAnimation/x64/
+
+# .vs
+PhysicsBasedAnimation/.vs/
+

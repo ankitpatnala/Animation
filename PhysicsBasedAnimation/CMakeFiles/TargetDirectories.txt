@@ -1,0 +1,10 @@
+E:/PhysicsBasedAnimation/build/CMakeFiles/INSTALL.dir
+E:/PhysicsBasedAnimation/build/CMakeFiles/ALL_BUILD.dir
+E:/PhysicsBasedAnimation/build/CMakeFiles/ZERO_CHECK.dir
+E:/PhysicsBasedAnimation/build/freeglut-3.0.0/CMakeFiles/INSTALL.dir
+E:/PhysicsBasedAnimation/build/freeglut-3.0.0/CMakeFiles/freeglut_static.dir
+E:/PhysicsBasedAnimation/build/freeglut-3.0.0/CMakeFiles/ALL_BUILD.dir
+E:/PhysicsBasedAnimation/build/AntTweakBar/CMakeFiles/AntTweakBar.dir
+E:/PhysicsBasedAnimation/build/AntTweakBar/CMakeFiles/INSTALL.dir
+E:/PhysicsBasedAnimation/build/Simulation/CMakeFiles/Simulation.dir
+E:/PhysicsBasedAnimation/build/Simulation/CMakeFiles/INSTALL.dir

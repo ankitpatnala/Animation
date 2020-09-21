@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\PhysicsBasedAnimation\Simulation\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\PhysicsBasedAnimation\Simulation\TimeManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\PhysicsBasedAnimation\Visualization\MiniGL.cpp">
+      <Filter>Source Files\Visualization</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\PhysicsBasedAnimation\Common\StringTools.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\PhysicsBasedAnimation\Common\timing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RigidBody.cpp">
+      <Filter>Source Files\Solver</Filter>
+    </ClCompile>
+    <ClCompile Include="AdvectionEquation.cpp">
+      <Filter>Source Files\Solver\FluidSolvers</Filter>
+    </ClCompile>
+    <ClCompile Include="StickManDance.cpp">
+      <Filter>Source Files\ComputerVision</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\PhysicsBasedAnimation\Simulation\TimeManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\PhysicsBasedAnimation\Visualization\MiniGL.h">
+      <Filter>Header Files\Visualization</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\PhysicsBasedAnimation\Common\Config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\PhysicsBasedAnimation\Common\StringTools.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\PhysicsBasedAnimation\Common\timing.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RigidBody.h">
+      <Filter>Header Files\Solver</Filter>
+    </ClInclude>
+    <ClInclude Include="AdvectionEquation.h">
+      <Filter>Header Files\Solver\FluidSolvers</Filter>
+    </ClInclude>
+    <ClInclude Include="StickManDance.h">
+      <Filter>Header Files\ComputerVision</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\PhysicsBasedAnimation\Simulation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3363D19E-C22F-30EC-B02B-F1CF004CDF32}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Visualization">
+      <UniqueIdentifier>{E0C8F494-33DA-3FAF-8F1C-F23BCB085E2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{C6429456-76E7-300F-871B-68C00726B23D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Visualization">
+      <UniqueIdentifier>{F62864A3-B137-38A9-ADE9-A24215C4F2FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Solver">
+      <UniqueIdentifier>{52308bb8-dbea-4538-b822-c77d715119df}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Solver">
+      <UniqueIdentifier>{32b6d811-4405-43e2-a2f1-1198b9067449}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Solver\FluidSolvers">
+      <UniqueIdentifier>{4c4a3647-342a-4057-959b-954bdf2d3fde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Solver\FluidSolvers">
+      <UniqueIdentifier>{f783d548-f329-4518-a1a9-c6ebc9482f79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\ComputerVision">
+      <UniqueIdentifier>{96318ff6-2054-4e43-aa44-e8cc4f8bf485}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\ComputerVision">
+      <UniqueIdentifier>{2e94ecb0-4c80-4de7-a3fe-4e75ccc6b30b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
